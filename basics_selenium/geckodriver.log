@@ -1,0 +1,60 @@
+1499711618005	geckodriver	INFO	Listening on 127.0.0.1:50204
+1499711620251	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.ewp1xEKRvWjF
+1499711620293	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499711620405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50216
+1499711684183	geckodriver	INFO	Listening on 127.0.0.1:50501
+1499711686398	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.Q1sqTlkXqfbR
+1499711686444	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499711686575	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50553
+Unable to read VR Path Registry from C:\Users\visswami\AppData\Local\openvr\openvrpaths.vrpath
+1499711727189	geckodriver	INFO	Listening on 127.0.0.1:50709
+1499711729273	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.J42gk7mT7K3o
+1499711729309	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499711729425	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50722
+1499711774569	geckodriver	INFO	Listening on 127.0.0.1:50894
+1499711776798	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.7hUmzw1QeF3I
+1499711776873	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499711777074	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50945
+Unable to read VR Path Registry from C:\Users\visswami\AppData\Local\openvr\openvrpaths.vrpath
+FO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.YKxYgRj4YGE2
+1499711803383	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499711803466	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51057
+Unable to read VR Path Registry from C:\Users\visswami\AppData\Local\openvr\openvrpaths.vrpath
+1499712129889	geckodriver	INFO	Listening on 127.0.0.1:52901
+1499712132100	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.Ktu3qPUcPs6Z
+1499712132157	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499712132318	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52915
+Unable to read VR Path Registry from C:\Users\visswami\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 411: Error: OS.File has been shut down. Rejecting request to writeAtomic
+1499712261208	geckodriver	INFO	Listening on 127.0.0.1:53803
+1499712263324	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.HWDhoWg2n6lE
+1499712263375	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499712263490	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53818
+Unable to read VR Path Registry from C:\Users\visswami\AppData\Local\openvr\openvrpaths.vrpath
+1499712887859	geckodriver	INFO	Listening on 127.0.0.1:57370
+1499712890058	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.CDzZGM0rzvSo
+1499712890096	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499712890214	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57402
+1499712957674	geckodriver	INFO	Listening on 127.0.0.1:58044
+1499712959886	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.HDhk1xjbJFoS
+1499712959963	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499712960119	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58066
+Unable to read VR Path Registry from C:\Users\visswami\AppData\Local\openvr\openvrpaths.vrpath
+1499713283013	geckodriver	INFO	Listening on 127.0.0.1:59769
+1499713285088	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.udOCuBbmBpGQ
+1499713285116	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499713285213	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59803
+1499713286236	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499713289322	Marionette	INFO	Listening on port 59803
+1499713289537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499713319812	Marionette	INFO	Ceased listening
+1499714807739	geckodriver	INFO	Listening on 127.0.0.1:61015
+1499714809933	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.L68FEMWvA5Q6
+1499714809974	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499714810100	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61028
+1499714811346	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499714814784	Marionette	INFO	Listening on port 61028
+1499714815346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499714840500	Marionette	INFO	Ceased listening

@@ -1,0 +1,367 @@
+1499845515205	geckodriver	INFO	Listening on 127.0.0.1:54756
+1499845517310	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.eUieASTSDuAr
+1499845517341	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499845517442	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49535
+1499845518375	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499845521197	Marionette	INFO	Listening on port 49535
+1499845521669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10.78.239.107/cupm/Login, line 17: ReferenceError: dojo is not defined
+JavaScript error: https://10.78.239.107/dfcweb/lib/dojo/dojo.js line 19 > Function line 3 > eval, line 9: TypeError: v.specificity is undefined
+1499845655144	Marionette	INFO	Ceased listening
+0.0.1:51606
+1499845559473	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.7RJwZs1d6pu1
+1499845559519	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499845559643	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49579
+1499845560453	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499845563645	Marionette	INFO	Listening on port 49579
+1499845563971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10.78.239.107/cupm/Login, line 17: ReferenceError: dojo is not defined
+JavaScript error: https://10.78.239.107/dfcweb/lib/dojo/dojo.js, line 30: TypeError: c is undefined
+JavaScript error: https://10.78.239.107/dfcweb/lib/dojo/dojo.js, line 30: TypeError: c is undefined
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1499845586617	Marionette	INFO	Ceased listening
+1499845590947	geckodriver	INFO	Listening on 127.0.0.1:64458
+1499845593077	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.f64IT0nl7WRx
+1499845593107	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499845593266	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56197
+1499845594183	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499845596222	Marionette	INFO	Listening on port 56197
+1499845596447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://10.78.239.107/cupm/Login, line 17: ReferenceError: dojo is not defined
+JavaScript error: https://10.78.239.107/dfcweb/lib/dojo/dojo.js, line 30: TypeError: c is undefined
+JavaScript error: https://10.78.239.107/dfcweb/lib/dojo/dojo.js, line 30: TypeError: c is undefined
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1499845644434	Marionette	INFO	Ceased listening
+1499845708865	geckodriver	INFO	Listening on 127.0.0.1:62136
+1499845710860	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.wDVKCNzosdpx
+1499845710887	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499845710967	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49295
+1499845711730	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499845714416	Marionette	INFO	Listening on port 49295
+1499845714684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499845755856	Marionette	INFO	Ceased listening
+0.0.1:51394
+1499845754765	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.S79cql2mA9TV
+1499845754827	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499845755094	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61000
+1499845756557	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499845759044	Marionette	INFO	Listening on port 61000
+1499845759302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499845777639	Marionette	INFO	Ceased listening
+1499846773436	geckodriver	INFO	Listening on 127.0.0.1:53626
+1499846775474	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.9PO7XVvFBOvR
+1499846775500	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499846775573	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52790
+1499846776434	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499846779084	Marionette	INFO	Listening on port 52790
+1499846779371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499846799978	Marionette	INFO	Ceased listening
+1499846802061	geckodriver	INFO	Listening on 127.0.0.1:58827
+1499846803947	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.r9HSlGCpSb99
+1499846803969	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499846804043	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60357
+1499846804846	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499846807488	Marionette	INFO	Listening on port 60357
+1499846807768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499846820864	Marionette	INFO	Ceased listening
+1499848559786	geckodriver	INFO	Listening on 127.0.0.1:61656
+1499848561844	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.CiAl7XEZC7lk
+1499848561872	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499848561946	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58890
+1499848562641	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499848565554	Marionette	INFO	Listening on port 58890
+1499848565852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499848579369	Marionette	INFO	Ceased listening
+1499848624422	geckodriver	INFO	Listening on 127.0.0.1:61407
+1499848626462	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.SXI1SvlQASw5
+1499848626490	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499848626576	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57810
+1499848627359	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499848630182	Marionette	INFO	Listening on port 57810
+1499848630363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499848647866	Marionette	INFO	Ceased listening
+1499852302510	geckodriver	INFO	Listening on 127.0.0.1:63137
+1499852308162	geckodriver	INFO	Listening on 127.0.0.1:59429
+1499852310193	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.9PrrVNiSS3MV
+1499852310221	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499852310337	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65010
+1499852311307	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1499852314175	Marionette	INFO	Listening on port 65010
+1499852314561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499852330899	Marionette	INFO	Ceased listening
+1500277090888	geckodriver	INFO	Listening on 127.0.0.1:61641
+1500277093010	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.87KI8ow3fibI
+1500277093038	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500277093098	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61647
+1500277093863	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500277096740	Marionette	INFO	Listening on port 61647
+1500277097234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500277128220	Marionette	INFO	Ceased listening
+0.0.1:61791
+1500277127809	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.qg8bDi2aObXS
+1500277127873	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500277128026	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61797
+1500277129126	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500277131179	Marionette	INFO	Listening on port 61797
+1500277131659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500277161072	Marionette	INFO	Ceased listening
+1500277166600	geckodriver	INFO	Listening on 127.0.0.1:61945
+1500277168632	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.GZXCXc7RqY7J
+1500277168657	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500277168726	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61951
+1500277169539	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500277172366	Marionette	INFO	Listening on port 61951
+1500277172629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500277213492	Marionette	INFO	Ceased listening
+1500277534880	geckodriver	INFO	Listening on 127.0.0.1:62128
+1500277536842	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.5t5VeGrOvdBy
+1500277536868	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500277536938	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62134
+1500277537755	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500277540532	Marionette	INFO	Listening on port 62134
+1500277540968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500277560246	Marionette	INFO	Ceased listening
+1500277584982	geckodriver	INFO	Listening on 127.0.0.1:62279
+1500277587017	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.Llk7LKmvlvjq
+1500277587043	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500277587120	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62285
+1500277587868	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500277590318	Marionette	INFO	Listening on port 62285
+1500277590749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500277599518	Marionette	INFO	Ceased listening
+1500277726985	geckodriver	INFO	Listening on 127.0.0.1:62531
+1500277729013	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.NvJpOw4c001K
+1500277729039	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500277729111	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62537
+1500277729802	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500277732215	Marionette	INFO	Listening on port 62537
+1500277732492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500277741257	Marionette	INFO	Ceased listening
+1500445104129	geckodriver	INFO	Listening on 127.0.0.1:62288
+1500445106157	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.cDpQACOPVs2M
+1500445106185	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500445106262	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62170
+1500445107110	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500445109989	Marionette	INFO	Listening on port 62170
+1500445110437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500445129982	Marionette	INFO	Ceased listening
+1500445166682	geckodriver	INFO	Listening on 127.0.0.1:56444
+1500445168744	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.hD9V4HULN4cb
+1500445168788	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500445168875	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52735
+1500445169700	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500445172085	Marionette	INFO	Listening on port 52735
+1500445172502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500445210842	Marionette	INFO	Ceased listening
+1500445221781	geckodriver	INFO	Listening on 127.0.0.1:57751
+1500445223807	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.QS9yasBgGawO
+1500445223832	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500445223964	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56002
+1500445224837	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500445227918	Marionette	INFO	Listening on port 56002
+1500445228321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500445233631	Marionette	INFO	New connections will no longer be accepted
+1501350119974	geckodriver	INFO	Listening on 127.0.0.1:56357
+1501350122158	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.MnNOHJgOnKPQ
+1501350122209	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501350122313	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56365
+1501350123238	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501350126180	Marionette	INFO	Listening on port 56365
+1501350126650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501350129821	Marionette	INFO	New connections will no longer be accepted
+1501384177171	geckodriver	INFO	Listening on 127.0.0.1:59976
+1501384179194	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.ecU60vWB09Gm
+1501384179215	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501384179297	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59982
+1501384180312	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501384184253	Marionette	INFO	Listening on port 59982
+1501384184569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501384203675	Marionette	INFO	Ceased listening
+1501384205257	geckodriver	INFO	Listening on 127.0.0.1:60156
+1501384207362	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.luMaMfKc0MTm
+1501384207414	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501384207586	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60162
+1501384208378	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501384211325	Marionette	INFO	Listening on port 60162
+1501384211784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501384214051	Marionette	INFO	New connections will no longer be accepted
+1501385020867	geckodriver	INFO	Listening on 127.0.0.1:60533
+1501385022973	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.tfyW0mz5Vhpx
+1501385022994	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501385023080	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60540
+1501385023862	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501385029545	geckodriver	INFO	Listening on 127.0.0.1:60546
+1501385031559	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.mHIKdP2dsm4E
+1501385031603	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501385031881	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60553
+1501385032908	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501385035685	Marionette	INFO	Listening on port 60553
+1501385036102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501385073706	Marionette	INFO	Ceased listening
+1501386376801	geckodriver	INFO	Listening on 127.0.0.1:61369
+1501386378957	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.EJdu0OSZxirc
+1501386378994	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501386379093	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61377
+1501386380404	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501386383020	Marionette	INFO	Listening on port 61377
+1501386383264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501386401343	Marionette	INFO	Ceased listening
+1501386404079	geckodriver	INFO	Listening on 127.0.0.1:61603
+1501386406162	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.ybFHpu35Hfth
+1501386406197	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501386406297	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61614
+1501386407101	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501386409570	Marionette	INFO	Listening on port 61614
+1501386410043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501386428663	Marionette	INFO	Ceased listening
+1501386444906	geckodriver	INFO	Listening on 127.0.0.1:61799
+1501386447079	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.2iwSjaB45a55
+1501386447143	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501386447257	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61808
+1501386448165	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1501386450326	Marionette	INFO	Listening on port 61808
+1501386450480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501386470144	Marionette	INFO	Ceased listening
+1501389160126	geckodriver	INFO	Listening on 127.0.0.1:63551
+1501389162261	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.rraVRZFVh3Pi
+1501389162308	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501389162427	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63559
+1501389163483	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501389166174	Marionette	INFO	Listening on port 63559
+1501389166640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501389187673	Marionette	INFO	Ceased listening
+1501389209194	geckodriver	INFO	Listening on 127.0.0.1:63891
+1501389211231	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.EStG73zGN5hm
+1501389211260	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501389211329	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63897
+1501389212118	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501389214604	Marionette	INFO	Listening on port 63897
+1501389214956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501389232713	Marionette	INFO	Ceased listening
+1501392185232	geckodriver	INFO	Listening on 127.0.0.1:65486
+1501392187319	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.bGwJI4skJN60
+1501392187355	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501392187460	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65492
+1501392188440	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501392195340	geckodriver	INFO	Listening on 127.0.0.1:65503
+1501392197463	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.f42kka0lHDJm
+1501392197498	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501392197575	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65511
+1501392198560	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501392201625	Marionette	INFO	Listening on port 65511
+1501392201911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501392232170	Marionette	INFO	Ceased listening
+1501393583188	geckodriver	INFO	Listening on 127.0.0.1:49991
+1501393585288	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.7AFmrYvwoXPN
+1501393585318	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501393585417	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49999
+1501393586433	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501393589690	Marionette	INFO	Listening on port 49999
+1501393590883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secure-ds.serving-sys.com/BurstingRes/CustomScripts/OAD_truste_multi.js?adid=46366644&flightid=21868646&pid=godaddy01&aid=godaddyads01&cid=798240&plc=tr&admarker=dynamic, line 171: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://secure-ds.serving-sys.com/BurstingRes/CustomScripts/OAD_truste_multi.js?adid=46839764&flightid=21868652&pid=godaddy01&aid=godaddyads01&cid=798240&plc=tr&admarker=dynamic, line 171: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://secure-ds.serving-sys.com/BurstingRes/Site-122576/WSFolders/9964243//js/main.js, line 1: TypeError: r is null
+JavaScript error: https://secure-ds.serving-sys.com/BurstingRes/Site-119475/WSFolders/10448114//js/main.js, line 1: TypeError: r is null
+1501393632138	Marionette	INFO	Ceased listening
+1501423122089	geckodriver	INFO	Listening on 127.0.0.1:57711
+1501423124166	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.35U0WsruKHG6
+1501423124194	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501423124296	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57717
+1501423125156	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501423127910	Marionette	INFO	Listening on port 57717
+1501423128141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501423170901	Marionette	INFO	Ceased listening
+1501477946472	geckodriver	INFO	Listening on 127.0.0.1:50730
+1501477948509	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.pJ4oYm0X3QNb
+1501477948536	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501477948604	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51404
+1501477949437	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1501477951804	Marionette	INFO	Listening on port 51404
+1501477952231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501477963611	Marionette	INFO	Ceased listening
+1501478491559	geckodriver	INFO	Listening on 127.0.0.1:54848
+1501478493580	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.3fUqLvUUdRkN
+1501478493607	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501478493678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63332
+1501478494484	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501478497163	Marionette	INFO	Listening on port 63332
+1501478497421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501478514381	Marionette	INFO	Ceased listening
+1501481050565	geckodriver	INFO	Listening on 127.0.0.1:63298
+1501481052603	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.lchJkGjlQiBW
+1501481052629	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501481052715	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51768
+1501481053593	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501481056427	Marionette	INFO	Listening on port 51768
+1501481056862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501481070061	Marionette	INFO	Ceased listening
+1501483819437	geckodriver	INFO	Listening on 127.0.0.1:63428
+1501483821496	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.P2abpmgvPP1k
+1501483821527	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501483821600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57413
+1501483822706	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501483825915	Marionette	INFO	Listening on port 57413
+1501483827125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501483840080	Marionette	INFO	Ceased listening
+1501483880752	geckodriver	INFO	Listening on 127.0.0.1:57941
+1501483882900	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.GbzZy8mR29gp
+1501483882950	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501483883109	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52463
+1501483884230	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501483887464	Marionette	INFO	Listening on port 52463
+1501483888519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501483900444	Marionette	INFO	Ceased listening
+1501484198687	geckodriver	INFO	Listening on 127.0.0.1:59965
+1501484200771	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.gulWSbSLljIY
+1501484200804	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501484200900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52103
+1501484201857	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501484204764	Marionette	INFO	Listening on port 52103
+1501484205218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501484212611	Marionette	INFO	Ceased listening
+1501588390678	geckodriver	INFO	Listening on 127.0.0.1:58599
+1501588392813	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.DDyfYwDbMXzV
+1501588392848	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501588393014	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58605
+1501588394556	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501588397429	Marionette	INFO	Listening on port 58605
+1501588398273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501588425322	Marionette	INFO	Ceased listening
+1501588429603	geckodriver	INFO	Listening on 127.0.0.1:58767
+1501588431651	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.e6LvrsOaccGw
+1501588431675	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501588431752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58774
+1501588432532	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501588436173	Marionette	INFO	Listening on port 58774
+1501588437027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501588474800	Marionette	INFO	Ceased listening
+1501589957078	geckodriver	INFO	Listening on 127.0.0.1:60197
+1501589959141	mozprofile::profile	INFO	Using profile path C:\Users\visswami\AppData\Local\Temp\rust_mozprofile.9cs6XA1ocdLj
+1501589959171	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1501589959272	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60206
+1501589960403	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501589963849	Marionette	INFO	Listening on port 60206
+1501589964532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501590027587	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1501590028058	Marionette	INFO	Ceased listening
